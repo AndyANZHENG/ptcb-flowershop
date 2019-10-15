@@ -83,3 +83,22 @@ header img {
   width: 50%;
   padding-left: 10%;
 }
+
+@media only screen and (max-width: 700px) {
+  .icon {
+    width: 70vw;
+    flex-direction: column;
+    height: 300px;
+  }
+
+  .icon img {
+    height: 120px;
+  }
+
+  .icon p {
+    font-size: 22px;
+    width: 60vw;
+    text-align: center;
+    padding-left: 0;
+  }
+}
