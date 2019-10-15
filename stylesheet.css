@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  width: 100vw;
+  height: 60px;
+  background-color: #ffffff;
+}
+
+header img {
+  height: 100%;
+  padding-top: 10px;
+  padding-left: 80px;
+}
